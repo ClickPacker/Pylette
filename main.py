@@ -1,4 +1,4 @@
-from pylett.messages import *
+from patterns.messages import *
 
 style = CreateStyle(text_color='red', style_modifiers=['bold'], background_color='black', indent=True)
 

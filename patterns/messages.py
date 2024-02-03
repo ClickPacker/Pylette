@@ -1,6 +1,6 @@
 from typing import Final, Union, Optional, List, NoReturn
 from dataclasses import dataclass, field
-from pylett.filters import *
+from patterns.filters import *
 
 __all__ = [
     "CreateStyle",
